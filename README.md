@@ -17,7 +17,7 @@ Flutter Neumorphism Ultra is a modern and customizable Flutter package designed 
 
 ## Installation
 
-Add the package to your `pubspec.yaml` file:
+Add the package to your   `pubspec.yaml` file:
 
 ```yaml
 dependencies:
