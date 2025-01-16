@@ -1,6 +1,6 @@
-# Sofiui
+# Sofiui_dev
 
-[![Pub Version](https://img.shields.io/pub/v/softui)](https://pub.dev/packages/softui)
+[![Pub Version](https://img.shields.io/pub/v/softui_dev)](https://pub.dev/packages/softui_dev)
 
 Sofiui is a modern and customizable Flutter package designed for creating Sofiui UI components such as containers, buttons, grids, and lists with ease. 
 
@@ -12,7 +12,7 @@ Sofiui is a modern and customizable Flutter package designed for creating Sofiui
 - Highly customizable components for diverse design requirements.
 
 
-| <img src="https://github.com/sumitgit2/softui/blob/main/img/Screenshot_1737050250.png" width="200px"> | <img src="https://github.com/sumitgit2/softui/blob/main/img/Screenshot_1737050253.png" width="200px"> |<img src="https://github.com/sumitgit2/softui/blob/main/img/Screenshot_1737050257.png" width="200px"> | <img src="https://github.com/sumitgit2/softui/blob/main/img/Screenshot_1737050263.png" width="200px"> | <img src="https://github.com/sumitgit2/softui/blob/main/img/Screenshot_1737050266.png" width="200px"> |<img src="https://github.com/sumitgit2/softui/blob/main/img/WhatsApp Image 2025-01-16 at 23.42.58.jpeg" width="200px"> |
+| <img src="https://github.com/sumitgit2/softui_dev/blob/main/img/Screenshot_1737050250.png" width="200px"> | <img src="https://github.com/sumitgit2/softui_dev/blob/main/img/Screenshot_1737050253.png" width="200px"> |<img src="https://github.com/sumitgit2/softui_dev/blob/main/img/Screenshot_1737050257.png" width="200px"> | <img src="https://github.com/sumitgit2/softui_dev/blob/main/img/Screenshot_1737050263.png" width="200px"> | <img src="https://github.com/sumitgit2/softui_dev/blob/main/img/Screenshot_1737050266.png" width="200px"> |<img src="https://github.com/sumitgit2/softui_dev/blob/main/img/WhatsApp Image 2025-01-16 at 23.42.58.jpeg" width="200px"> |
 
 
 ## Installation
@@ -21,7 +21,7 @@ Add the package to your `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  softui: ^1.0.0
+  softui_dev: ^1.0.0
 ```
 
 ### Then, run:
@@ -33,7 +33,7 @@ flutter pub get
 - Import the package
 
 ```dart
-import 'package:softui/soft_ui.dart';
+import 'package:softui_dev/soft_ui.dart';
 ```
 
 ## Examples
@@ -108,6 +108,6 @@ See the complete example in the example directory for a full implementation.
 Contributions are welcome! Please open an issue or submit a pull request with any improvements or bug fixes.
 
 # GitHub
-For more details, [visit the GitHub repository](https://github.com/sumitgit2/softui)
+For more details, [visit the GitHub repository](https://github.com/sumitgit2/softui_dev)
 
 Copyright (c) 2024 [Developer Sumit](https://sumitdev83.netlify.app/)

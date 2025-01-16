@@ -3,7 +3,7 @@ import 'package:example/grid_home.dart';
 import 'package:example/grid_text_home.dart';
 import 'package:example/list_home.dart';
 import 'package:flutter/material.dart';
-import 'package:softui/soft_ui.dart';
+import 'package:softui_dev/soft_ui.dart';
 
 class HomePage extends StatelessWidget {
   const HomePage({super.key});

@@ -1,4 +1,4 @@
-library softui;
+library softui_dev;
 
 export 'src/neu_container.dart';
 export 'src/neu_gridview.dart';

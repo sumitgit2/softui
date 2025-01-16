@@ -136,7 +136,7 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
-  softui:
+  softui_dev:
     dependency: "direct main"
     description:
       path: ".."

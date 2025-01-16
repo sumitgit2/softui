@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:softui/soft_ui.dart';
+import 'package:softui_dev/soft_ui.dart';
 
 class ContainerHome extends StatelessWidget {
   const ContainerHome({super.key});
