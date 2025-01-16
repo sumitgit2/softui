@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:softui/soft_ui.dart';
+import 'package:softui_dev/soft_ui.dart';
 
 class GridHome extends StatelessWidget {
   const GridHome({super.key});
