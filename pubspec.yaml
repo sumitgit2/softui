@@ -1,10 +1,10 @@
 name: softui_dev
 description: "Flutter Neumorphism Ultra is a modern and customizable Flutter package designed for creating neumorphic UI components such as containers, buttons, grids, and lists with ease."
-version: 1.0.0
-homepage: https://github.com/sumitgit2/softui_dev
+version: 1.1.0
+homepage: https://github.com/sumitgit2/softui
 
 metadata:
-  repository: https://github.com/sumitgit2/softui_dev
+  repository: https://github.com/sumitgit2/softui
   website: https://sumitdev83.netlify.app/
   linkedin: https://www.linkedin.com/in/sumitdev83/
 
