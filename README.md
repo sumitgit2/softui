@@ -1,14 +1,14 @@
-# Flutter Neumorphism Ultra
+# Sofiui
 
 [![Pub Version](https://img.shields.io/pub/v/softui)](https://pub.dev/packages/softui)
 
-Flutter Neumorphism Ultra is a modern and customizable Flutter package designed for creating neumorphic UI components such as containers, buttons, grids, and lists with ease. 
+Sofiui is a modern and customizable Flutter package designed for creating Sofiui UI components such as containers, buttons, grids, and lists with ease. 
 
 ## Features
 
-- Neumorphic **containers** with shadow effects.
-- Neumorphic **buttons** and **icon buttons**.
-- Support for **grid views** and **list views** with neumorphic styling.
+- Sofiui **containers** with shadow effects.
+- Sofiui **buttons** and **icon buttons**.
+- Support for **grid views** and **list views** with Sofiui styling.
 - Highly customizable components for diverse design requirements.
 
 
