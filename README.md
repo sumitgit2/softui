@@ -8,7 +8,7 @@ Sofiui is a modern and customizable Flutter package designed for creating Sofiui
 
 - Sofiui **containers** with shadow effects.
 - Sofiui **buttons** and **icon buttons**.
-- Support for **grid views** and **list views** with Sofiui styling.
+- Support for **grid views** and **list views** with Sofiui_dev styling.
 - Highly customizable components for diverse design requirements .
 
 
