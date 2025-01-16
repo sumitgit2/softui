@@ -108,6 +108,6 @@ See the complete example in the example directory for a full implementation.
 Contributions are welcome! Please open an issue or submit a pull request with any improvements or bug fixes.
 
 # GitHub
-For more details, [visit the GitHub repository](https://github.com/sumitgit2/softui_dev)
+For more details, [visit the GitHub repository](https://github.com/sumitgit2/softui)
 
 Copyright (c) 2024 [Developer Sumit](https://sumitdev83.netlify.app/)
