@@ -2,17 +2,17 @@
 
 [![Pub Version](https://img.shields.io/pub/v/softui_dev)](https://pub.dev/packages/softui_dev)
 
-Sofiui is a modern and customizable Flutter package designed for creating Sofiui UI components such as containers, buttons, grids, and lists with ease. 
+Sofiui_dev is a modern and customizable Flutter package designed for creating Sofiui_dev UI components such as containers, buttons, grids, and lists with ease. 
 
 ## Features
 
-- Sofiui **containers** with shadow effects.
-- Sofiui **buttons** and **icon buttons**.
+- Sofiui_dev **containers** with shadow effects.
+- Sofiui_dev **buttons** and **icon buttons**.
 - Support for **grid views** and **list views** with Sofiui_dev styling.
 - Highly customizable components for diverse design requirements .
 
 
-| <img src="https://github.com/sumitgit2/softui/blob/main/img/Screenshot_1737050250.png" width="200px"> | <img src="https://github.com/sumitgit2/softui/blob/main/img/Screenshot_1737050253.png" width="200px"> |<img src="https://github.com/sumitgit2/softui/blob/main/img/Screenshot_1737050257.png" width="200px"> | <img src="https://github.com/sumitgit2/softui/blob/main/img/Screenshot_1737050263.png" width="200px"> | <img src="https://github.com/sumitgit2/softui/blob/main/img/Screenshot_1737050266.png" width="200px"> |<img src="https://github.com/sumitgit2/softui/blob/main/img/WhatsApp Image 2025-01-16 at 23.42.58.jpeg" width="200px"> |
+| <img src="https://raw.githubusercontent.com/sumitgit2/softui/main/img/Screenshot_1737050250.png" width="200px"> | <img src="https://raw.githubusercontent.com/sumitgit2/softui/main/img/Screenshot_1737050253.png" width="200px"> |<img src="https://raw.githubusercontent.com/sumitgit2/softui/main/img/Screenshot_1737050257.png" width="200px"> | <img src="https://raw.githubusercontent.com/sumitgit2/softui/main/img/Screenshot_1737050263.png" width="200px"> | <img src="https://raw.githubusercontent.com/sumitgit2/softui/main/img/Screenshot_1737050266.png" width="200px"> |<img src="https://raw.githubusercontent.com/sumitgit2/softui/main/img/WhatsApp Image 2025-01-16 at 23.42.58.jpeg" width="200px"> |
 
 
 ## Installation
