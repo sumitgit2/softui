@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-class NeuIconButton extends StatelessWidget {
+class SoftuiIconButton extends StatelessWidget {
   final VoidCallback? onPressed;
   final IconData icon;
   final double size;
@@ -10,7 +10,7 @@ class NeuIconButton extends StatelessWidget {
   final List<BoxShadow>? boxShadow;
   final EdgeInsets? margin, padding;
 
-  const NeuIconButton({
+  const SoftuiIconButton({
     Key? key,
     this.onPressed,
     required this.icon,

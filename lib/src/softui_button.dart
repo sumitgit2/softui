@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-class NeuButton extends StatelessWidget {
+class SoftuiButton extends StatelessWidget {
   final VoidCallback? onPressed;
   final Widget? child;
   final Color? color;
@@ -10,7 +10,7 @@ class NeuButton extends StatelessWidget {
   final List<BoxShadow>? boxShadow;
   final EdgeInsets? margin, padding;
 
-  const NeuButton({
+  const SoftuiButton({
     Key? key,
     this.onPressed,
     this.child,

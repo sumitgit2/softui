@@ -12,9 +12,9 @@ class ListHome extends StatelessWidget {
         title: const Text('Container'),
       ),
       body: Center(
-        child: NeuListView(
+        child: SoftuiListView(
           itemBuilder: (context, index) {
-            return NeuContainer(
+            return SoftuiContainer(
               margin: EdgeInsets.all(10),
             );
           },

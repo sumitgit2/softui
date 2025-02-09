@@ -12,10 +12,10 @@ class GridHome extends StatelessWidget {
         title: const Text('Container'),
       ),
       body: Center(
-        child: NeuGridView(
+        child: SoftuiGridView(
           crossAxisCount: 3,
           itemBuilder: (context, index) {
-            return NeuContainer(
+            return SoftuiContainer(
               margin: EdgeInsets.all(10),
             );
           },

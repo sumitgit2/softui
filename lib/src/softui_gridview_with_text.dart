@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
-import 'neu_container.dart';
+import 'softui_container.dart';
 
-class NeuGridviewWithText extends StatelessWidget {
+class SoftuiGridviewWithText extends StatelessWidget {
   final List<Map<String, dynamic>> items;
   final int crossAxisCount;
   final double crossAxisSpacing;
   final double mainAxisSpacing;
 
-  const NeuGridviewWithText({
+  const SoftuiGridviewWithText({
     Key? key,
     required this.items,
     this.crossAxisCount = 3,
@@ -31,7 +31,7 @@ class NeuGridviewWithText extends StatelessWidget {
           mainAxisSize: MainAxisSize.min,
           crossAxisAlignment: CrossAxisAlignment.center,
           children: [
-            NeuContainer(
+            SoftuiContainer(
               height: 100,
               width: 100,
               child: Icon(

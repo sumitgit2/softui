@@ -12,7 +12,7 @@ class ContainerHome extends StatelessWidget {
         title: const Text('Container'),
       ),
       body: Center(
-        child: NeuContainer(
+        child: SoftuiContainer(
           child: Icon(
             Icons.home,
             size: 50,

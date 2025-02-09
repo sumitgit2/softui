@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-class NeuContainer extends StatelessWidget {
+class SoftuiContainer extends StatelessWidget {
   final double height;
   final double width;
   final BorderRadius? borderRadius;
@@ -9,7 +9,7 @@ class NeuContainer extends StatelessWidget {
   final List<BoxShadow>? boxShadow;
   final EdgeInsets? margin, padding;
 
-  const NeuContainer({
+  const SoftuiContainer({
     Key? key,
     this.height = 100,
     this.width = 100,

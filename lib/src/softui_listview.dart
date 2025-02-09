@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 
-class NeuListView extends StatelessWidget {
+class SoftuiListView extends StatelessWidget {
   final IndexedWidgetBuilder itemBuilder;
   final int itemCount;
 
-  const NeuListView({
+  const SoftuiListView({
     Key? key,
     required this.itemBuilder,
     required this.itemCount,

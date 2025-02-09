@@ -38,9 +38,9 @@ import 'package:softui_dev/soft_ui.dart';
 
 ## Examples
 
-### NeuContainer
+### SoftuiContainer
 ```dart
-NeuContainer(
+SoftuiContainer(
   height: 100,
   width: 100,
   child: Center(
@@ -49,29 +49,29 @@ NeuContainer(
 );
 ```
 
-### NeuButton
+### SoftuiButton
 ```dart
-NeuButton(
+SoftuiButton(
   onPressed: () => print("Button Pressed"),
   child: Text("Click Me"),
 );
 ```
 
-### NeuIconButton
+### SoftuiIconButton
 ```dart
-NeuIconButton(
+SoftuiIconButton(
   icon: Icons.favorite,
   onPressed: () => print("Icon Button Pressed"),
 );
 ```
 
-### NeuGridView
+### SoftuiGridView
 ```dart
-NeuGridView(
+SoftuiGridView(
   crossAxisCount: 2,
   itemCount: 4,
   itemBuilder: (context, index) {
-    return NeuContainer(
+    return SoftuiContainer(
       child: Center(
         child: Text("Item $index"),
       ),
@@ -80,12 +80,12 @@ NeuGridView(
 );
 ```
 
-### NeuListView
+### SoftuiListView
 ```dart
-NeuListView(
+SoftuiListView(
   itemCount: 10,
   itemBuilder: (context, index) {
-    return NeuContainer(
+    return SoftuiContainer(
       child: ListTile(
         title: Text("List Item $index"),
       ),

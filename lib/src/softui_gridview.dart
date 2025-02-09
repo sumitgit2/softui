@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
 
-class NeuGridView extends StatelessWidget {
+class SoftuiGridView extends StatelessWidget {
   final int crossAxisCount;
   final double childAspectRatio;
   final IndexedWidgetBuilder itemBuilder;
   final int itemCount;
 
-  const NeuGridView({
+  const SoftuiGridView({
     Key? key,
     required this.crossAxisCount,
     this.childAspectRatio = 1.0,

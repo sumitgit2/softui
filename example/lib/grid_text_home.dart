@@ -22,7 +22,7 @@ class GridTextHome extends StatelessWidget {
       ),
       body: Padding(
         padding: const EdgeInsets.all(8.0),
-        child: NeuGridviewWithText(
+        child: SoftuiGridviewWithText(
           items: items,
           crossAxisSpacing: 10,
           mainAxisSpacing: 0,

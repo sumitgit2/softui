@@ -24,15 +24,15 @@ class HomePage extends StatelessWidget {
               crossAxisAlignment: CrossAxisAlignment.center,
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
-                NeuIconButton(icon: Icons.add),
+                SoftuiIconButton(icon: Icons.add),
                 SizedBox(width: 30),
-                NeuIconButton(icon: Icons.search),
+                SoftuiIconButton(icon: Icons.search),
               ],
             ),
             const SizedBox(
               height: 30,
             ),
-            NeuButton(
+            SoftuiButton(
               onPressed: () {
                 Navigator.push(
                   context,
@@ -44,7 +44,7 @@ class HomePage extends StatelessWidget {
               child: Text('Container Demo'),
             ),
             SizedBox(height: 20),
-            NeuButton(
+            SoftuiButton(
               onPressed: () {
                 Navigator.push(
                   context,
@@ -56,7 +56,7 @@ class HomePage extends StatelessWidget {
               child: Text('ListView Demo'),
             ),
             SizedBox(height: 20),
-            NeuButton(
+            SoftuiButton(
               onPressed: () {
                 Navigator.push(
                   context,
@@ -68,7 +68,7 @@ class HomePage extends StatelessWidget {
               child: Text('GridView Demo'),
             ),
             SizedBox(height: 20),
-            NeuButton(
+            SoftuiButton(
               onPressed: () {
                 Navigator.push(
                   context,
