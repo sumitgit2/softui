@@ -6,3 +6,5 @@ export 'src/softui_listview.dart';
 export 'src/softui_button.dart';
 export 'src/softui_icon_button.dart';
 export 'src/softui_gridview_with_text.dart';
+export 'src/softui_icon_name_button_widget.dart';
+
